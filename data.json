@@ -682,12 +682,12 @@
     {
       "name": "Pierre",
       "tier": "A",
-      "active": false
+      "active": true
     },
     {
       "name": "Shanisse",
       "tier": "B",
-      "active": false
+      "active": true
     },
     {
       "name": "Laura",
