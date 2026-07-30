@@ -677,12 +677,12 @@
     {
       "name": "Abigail",
       "tier": "B",
-      "active": false
+      "active": true
     },
     {
       "name": "Pierre",
       "tier": "A",
-      "active": false
+      "active": true
     },
     {
       "name": "Shanisse",
