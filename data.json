@@ -497,7 +497,7 @@
       null,
       1,
       null,
-      0,
+      null,
       null,
       null,
       null,
@@ -677,7 +677,7 @@
     {
       "name": "Abigail",
       "tier": "B",
-      "active": true
+      "active": false
     },
     {
       "name": "Pierre",
