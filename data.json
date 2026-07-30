@@ -652,7 +652,7 @@
     {
       "name": "Krystal",
       "tier": "B",
-      "active": true
+      "active": false
     },
     {
       "name": "Franchy",
