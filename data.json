@@ -36,7 +36,8 @@
     "2026-08-25",
     "2026-09-04",
     "2026-09-11",
-    "2026-09-18"
+    "2026-09-18",
+    "2026-09-25"
   ],
   "matrix": {
     "Carlos": [
@@ -76,6 +77,7 @@
       0,
       null,
       null,
+      null,
       null
     ],
     "Luinis": [
@@ -111,6 +113,7 @@
       null,
       1,
       1,
+      null,
       null,
       null,
       null,
@@ -154,6 +157,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "Shakira": [
@@ -190,6 +194,7 @@
       1,
       1,
       1,
+      null,
       null,
       null,
       null,
@@ -232,6 +237,7 @@
       1,
       null,
       null,
+      null,
       null
     ],
     "Suzette": [
@@ -269,6 +275,7 @@
       0,
       1,
       1,
+      null,
       null,
       null,
       null
@@ -310,6 +317,7 @@
       1,
       null,
       null,
+      null,
       null
     ],
     "Krystal": [
@@ -339,6 +347,7 @@
       1,
       null,
       1,
+      null,
       null,
       null,
       null,
@@ -388,6 +397,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "Guille": [
@@ -425,6 +435,7 @@
       null,
       1,
       1,
+      null,
       null,
       null,
       null
@@ -466,6 +477,7 @@
       1,
       null,
       null,
+      null,
       null
     ],
     "Gaby": [
@@ -503,6 +515,7 @@
       null,
       1,
       1,
+      null,
       null,
       null,
       null
@@ -544,6 +557,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "Pierre": [
@@ -573,6 +587,7 @@
       null,
       1,
       1,
+      null,
       null,
       null,
       null,
@@ -622,6 +637,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "Laura": [
@@ -657,6 +673,7 @@
       null,
       null,
       1,
+      null,
       null,
       null,
       null,
