@@ -705,7 +705,7 @@
     {
       "name": "Ivan",
       "tier": "A",
-      "active": true
+      "active": false
     },
     {
       "name": "Suzette",
@@ -774,7 +774,7 @@
       "Gabi": false
     },
     "2026-09-11": {
-      "Franchy": true
+      "Franchy": false
     }
   }
 }
