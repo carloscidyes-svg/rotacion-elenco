@@ -77,7 +77,7 @@
       0,
       1,
       1,
-      1,
+      0,
       1
     ],
     "Luinis": [
@@ -786,7 +786,7 @@
     "2026-09-25": {
       "Gaby": false,
       "Luinis": false,
-      "Gabi": true
+      "Gabi": false
     },
     "2026-09-04": {
       "Luinis": false
