@@ -781,11 +781,12 @@
     "2026-09-18": {
       "Gaby": false,
       "Luinis": true,
-      "Gabi": true
+      "Gabi": false
     },
     "2026-09-25": {
       "Gaby": false,
-      "Luinis": false
+      "Luinis": false,
+      "Gabi": true
     },
     "2026-09-04": {
       "Luinis": false
