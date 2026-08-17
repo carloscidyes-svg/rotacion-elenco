@@ -745,7 +745,7 @@
     {
       "name": "Abigail",
       "tier": "B",
-      "active": true
+      "active": false
     },
     {
       "name": "Pierre",
