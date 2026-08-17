@@ -720,7 +720,7 @@
     {
       "name": "Krystal",
       "tier": "B",
-      "active": false
+      "active": true
     },
     {
       "name": "Franchy",
