@@ -277,7 +277,7 @@
       1,
       0,
       1,
-      null,
+      1,
       1
     ],
     "Nanita": [
@@ -679,6 +679,46 @@
       null,
       null,
       1
+    ],
+    "Antonio": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   },
   "roster": [
@@ -760,6 +800,11 @@
     {
       "name": "Laura",
       "tier": "B",
+      "active": true
+    },
+    {
+      "name": "Antonio",
+      "tier": "A",
       "active": true
     }
   ],
