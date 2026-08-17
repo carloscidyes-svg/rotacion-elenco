@@ -476,7 +476,7 @@
       null,
       1,
       null,
-      null,
+      1,
       null,
       1
     ],
@@ -557,7 +557,7 @@
       null,
       null,
       null,
-      1,
+      0,
       null
     ],
     "Pierre": [
