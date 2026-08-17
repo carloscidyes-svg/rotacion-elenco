@@ -705,7 +705,7 @@
     {
       "name": "Ivan",
       "tier": "A",
-      "active": true
+      "active": false
     },
     {
       "name": "Suzette",
@@ -755,7 +755,7 @@
     {
       "name": "Shanisse",
       "tier": "B",
-      "active": true
+      "active": false
     },
     {
       "name": "Laura",
