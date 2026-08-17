@@ -716,7 +716,7 @@
       null,
       null,
       null,
-      0,
+      null,
       null,
       null
     ]
@@ -805,7 +805,7 @@
     {
       "name": "Antonio",
       "tier": "A",
-      "active": true
+      "active": false
     }
   ],
   "availability": {
