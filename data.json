@@ -805,7 +805,7 @@
     {
       "name": "Antonio",
       "tier": "A",
-      "active": false
+      "active": true
     }
   ],
   "availability": {
