@@ -852,7 +852,7 @@
     {
       "name": "Gaby",
       "tier": "B",
-      "active": true
+      "active": false
     },
     {
       "name": "Abigail",
@@ -867,7 +867,7 @@
     {
       "name": "Shanisse",
       "tier": "B",
-      "active": true
+      "active": false
     },
     {
       "name": "Laura",
