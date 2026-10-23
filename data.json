@@ -177,7 +177,7 @@
       null,
       null,
       1,
-      0,
+      null,
       null
     ],
     "Shakira": [
@@ -948,7 +948,7 @@
     },
     "2026-11-20": {
       "Carlos": false,
-      "Gabi": true,
+      "Gabi": false,
       "Suzette": true,
       "Nanita": true,
       "Franchy": true,
