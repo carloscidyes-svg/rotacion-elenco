@@ -915,15 +915,18 @@
     },
     "2026-11-13": {
       "Carlos": false,
-      "Gabi": true
+      "Gabi": true,
+      "Suzette": true
     },
     "2026-11-20": {
       "Carlos": false,
-      "Gabi": true
+      "Gabi": true,
+      "Suzette": true
     },
     "2026-11-27": {
       "Carlos": false,
-      "Gabi": false
+      "Gabi": false,
+      "Suzette": true
     }
   }
 }
