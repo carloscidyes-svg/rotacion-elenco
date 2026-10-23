@@ -917,17 +917,20 @@
     "2026-11-13": {
       "Carlos": false,
       "Gabi": true,
-      "Suzette": true
+      "Suzette": true,
+      "Nanita": true
     },
     "2026-11-20": {
       "Carlos": false,
       "Gabi": true,
-      "Suzette": true
+      "Suzette": true,
+      "Nanita": true
     },
     "2026-11-27": {
       "Carlos": false,
       "Gabi": false,
-      "Suzette": true
+      "Suzette": true,
+      "Nanita": true
     }
   }
 }
