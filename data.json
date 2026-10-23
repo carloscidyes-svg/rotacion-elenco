@@ -912,10 +912,14 @@
       "Carlos": true
     },
     "2026-11-13": {
-      "Carlos": false
+      "Carlos": false,
+      "Gabi": true
     },
     "2026-11-20": {
-      "Carlos": true
+      "Carlos": false
+    },
+    "2026-11-27": {
+      "Carlos": false
     }
   }
 }
