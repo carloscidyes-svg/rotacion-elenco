@@ -921,21 +921,24 @@
       "Gabi": true,
       "Suzette": true,
       "Nanita": true,
-      "Franchy": true
+      "Franchy": true,
+      "Guille": true
     },
     "2026-11-20": {
       "Carlos": false,
       "Gabi": true,
       "Suzette": true,
       "Nanita": true,
-      "Franchy": true
+      "Franchy": true,
+      "Guille": true
     },
     "2026-11-27": {
       "Carlos": false,
       "Gabi": false,
       "Suzette": true,
       "Nanita": true,
-      "Franchy": true
+      "Franchy": true,
+      "Guille": true
     }
   }
 }
