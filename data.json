@@ -909,14 +909,16 @@
       "Luinis": false
     },
     "2026-11-06": {
-      "Carlos": true
+      "Carlos": true,
+      "Gabi": true
     },
     "2026-11-13": {
       "Carlos": false,
       "Gabi": true
     },
     "2026-11-20": {
-      "Carlos": false
+      "Carlos": false,
+      "Gabi": true
     },
     "2026-11-27": {
       "Carlos": false
