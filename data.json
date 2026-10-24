@@ -809,6 +809,51 @@
       1,
       1,
       1
+    ],
+    "Dimitri": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
     ]
   },
   "roster": [
@@ -894,6 +939,11 @@
     },
     {
       "name": "Antonio",
+      "tier": "A",
+      "active": true
+    },
+    {
+      "name": "Dimitri",
       "tier": "A",
       "active": true
     }
