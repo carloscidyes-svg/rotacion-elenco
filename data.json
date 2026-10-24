@@ -940,7 +940,7 @@
     {
       "name": "Antonio",
       "tier": "A",
-      "active": true
+      "active": false
     },
     {
       "name": "Dimitri",
