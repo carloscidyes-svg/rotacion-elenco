@@ -985,7 +985,8 @@
       "Guille": true,
       "Francheska": true,
       "Gaby": false,
-      "Dimitri": false
+      "Dimitri": false,
+      "Antonio": false
     },
     "2026-11-13": {
       "Carlos": false,
@@ -997,7 +998,7 @@
       "Francheska": true,
       "Gaby": true,
       "Dimitri": true,
-      "Antonio": true
+      "Antonio": false
     },
     "2026-11-20": {
       "Carlos": false,
