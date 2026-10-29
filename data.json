@@ -875,7 +875,7 @@
     {
       "name": "Shakira",
       "tier": "B",
-      "active": true
+      "active": false
     },
     {
       "name": "Ivan",
