@@ -1060,12 +1060,11 @@
       "Dimitri": true
     },
     "2026-12-11": {
-      "Suzette": false,
-      "Nanita": false
+      "Suzette": false
     },
     "2026-12-04": {
       "Suzette": true,
-      "Nanita": true
+      "Nanita": false
     }
   }
 }
