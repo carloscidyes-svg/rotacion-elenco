@@ -902,8 +902,8 @@
     },
     {
       "name": "Luinis",
-      "tier": "B",
-      "active": false
+      "tier": "A",
+      "active": true
     },
     {
       "name": "Gabi",
