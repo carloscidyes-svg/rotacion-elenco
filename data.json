@@ -1061,10 +1061,11 @@
     },
     "2026-12-11": {
       "Suzette": false,
-      "Nanita": true
+      "Nanita": false
     },
     "2026-12-04": {
-      "Suzette": true
+      "Suzette": true,
+      "Nanita": true
     }
   }
 }
