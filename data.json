@@ -983,7 +983,7 @@
     {
       "name": "Dimitri",
       "tier": "A",
-      "active": true
+      "active": false
     }
   ],
   "availability": {
