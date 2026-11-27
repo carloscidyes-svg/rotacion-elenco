@@ -42,7 +42,8 @@
     "2026-11-06",
     "2026-11-13",
     "2026-11-20",
-    "2026-11-27"
+    "2026-11-27",
+    "2026-12-11"
   ],
   "matrix": {
     "Carlos": [
@@ -88,7 +89,8 @@
       1,
       null,
       1,
-      1
+      1,
+      null
     ],
     "Luinis": [
       1,
@@ -125,6 +127,7 @@
       1,
       null,
       1,
+      null,
       null,
       null,
       null,
@@ -178,6 +181,7 @@
       null,
       null,
       0,
+      null,
       null
     ],
     "Shakira": [
@@ -220,6 +224,7 @@
       1,
       1,
       1,
+      null,
       null,
       null,
       null,
@@ -268,7 +273,8 @@
       null,
       null,
       1,
-      1
+      1,
+      null
     ],
     "Suzette": [
       null,
@@ -313,7 +319,8 @@
       0,
       null,
       1,
-      1
+      1,
+      null
     ],
     "Nanita": [
       null,
@@ -358,7 +365,8 @@
       1,
       1,
       null,
-      1
+      1,
+      null
     ],
     "Krystal": [
       1,
@@ -387,6 +395,7 @@
       1,
       null,
       1,
+      null,
       null,
       null,
       null,
@@ -448,6 +457,7 @@
       null,
       0,
       null,
+      null,
       null
     ],
     "Guille": [
@@ -493,6 +503,7 @@
       1,
       1,
       1,
+      null,
       null
     ],
     "Francheska": [
@@ -538,7 +549,8 @@
       1,
       null,
       1,
-      0
+      0,
+      null
     ],
     "Gaby": [
       0,
@@ -582,6 +594,7 @@
       null,
       null,
       1,
+      null,
       null,
       null
     ],
@@ -628,6 +641,7 @@
       null,
       1,
       null,
+      null,
       null
     ],
     "Pierre": [
@@ -657,6 +671,7 @@
       null,
       1,
       1,
+      null,
       null,
       null,
       null,
@@ -718,6 +733,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "Laura": [
@@ -763,6 +779,7 @@
       null,
       null,
       null,
+      null,
       null
     ],
     "Antonio": [
@@ -802,6 +819,7 @@
       null,
       null,
       1,
+      null,
       null,
       null,
       null,
@@ -853,7 +871,8 @@
       null,
       1,
       null,
-      1
+      1,
+      null
     ]
   },
   "roster": [
